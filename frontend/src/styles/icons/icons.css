@@ -1,0 +1,264 @@
+.report_filled_icon {
+  background-image: url(../../../public/icons/icons15.png);
+  background-position: 0px -25px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.exit_icon {
+  background-image: url("../../../public/icons/icons6.png");
+  background-position: -126px -71px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.settings_filled_icon {
+  background-image: url(../../../public/icons/icons16.png);
+  background-position: -21px -228px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.help_filled_icon {
+  background-image: url(../../../public/icons/icons17.png);
+  background-position: 0px -487px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.dark_filled_icon {
+  background-image: url(../../../public/icons/icons17.png);
+  background-position: 0px -340px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.logout_filled_icon {
+  background-image: url(../../../public/icons/icons15.png);
+  background-position: 0px -46px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.right_icon {
+  background-image: url(../../../public/icons/icons18.png);
+  background-position: -83px -13px;
+  background-size: auto;
+  width: 24px;
+  height: 24px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(50%);
+}
+.privacy_checkup_icon {
+  background-image: url(../../../public/icons/icons15.png);
+  background-position: 0px -67px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.privacy_shortcuts_icon {
+  background-image: url(../../../public/icons/icons19.png);
+  background-position: 0px -495px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.activity_log_icon {
+  background-image: url(../../../public/icons/icons20.png);
+  background-position: -25px -250px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.news_icon {
+  background-image: url(../../../public/icons/icons21.png);
+  background-position: 0px -239px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.language_icon {
+  background-image: url(../../../public/icons/icons22.png);
+  background-position: 0px -658px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.arrow_back_icon {
+  background-image: url(../../../public/icons/icons18.png);
+  background-position: 0px -46px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.help_center_icon {
+  background-image: url(../../../public/icons/icons17.png);
+  background-position: 0px -487px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.email_icon {
+  background-image: url(../../../public/icons/icons22.png);
+  background-position: 0px -532px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.info_filled_icon {
+  background-image: url(../../../public/icons/icons23.png);
+  background-position: 0px -355px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.keyboard_icon {
+  background-image: url(../../../public/icons/icons24.png);
+  background-position: 0px -242px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.camera_icon {
+  background-image: url("../../../public/icons/icons5.png");
+  background-position: 0px -366px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+  filter: invert(40%);
+}
+.camera_filled_icon {
+  background-image: url("../../../public/icons/icons25.png");
+  background-position: 0px -444px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+
+.plus_icon {
+  background-image: url(../../../public/icons/icons22.png);
+  background-position: 0px -1341px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.frame_icon {
+  background-image: url(../../../public/icons/icons31.png);
+  background-position: 0px -130px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.minus_icon {
+  background-image: url(../../../public/icons/icons33.png);
+  background-position: 0px -50px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.plus_icon {
+  background-image: url(../../../public/icons/icons32.png);
+  background-position: 0px -25px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.crop_icon {
+  background-image: url(../../../public/icons/icons31.png);
+  background-position: 0px -113px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.temp_icon {
+  background-image: url(../../../public/icons/icons31.png);
+  background-position: 0px -96px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.manage_icon {
+  background-image: url(../../../public/icons/icons26.png);
+  background-position: 0px -165px;
+  background-size: auto;
+  width: 16px;
+  height: 16px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
+.info_icon {
+  background-image: url(../../../public/icons/icons36.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  background-position: 0 -60px;
+}
+.error_icon {
+  background-image: url(../../../public/icons/icons10.png);
+  background-size: auto;
+  background-repeat: no-repeat;
+  display: inline-block;
+  height: 21px;
+  width: 21px;
+}
+.public_icon {
+  background-image: url(../../../public/icons/publicpack.png);
+  background-position: 0px -109px;
+  background-size: auto;
+  width: 20px;
+  height: 20px;
+  background-repeat: no-repeat;
+  display: inline-block;
+}
