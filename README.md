@@ -107,3 +107,6 @@ Frontend is deployed on Netlify.
 ## DEMO VIDEO
 
 https://drive.google.com/file/d/13gWc_FJLHuaDiLjEG88Rmi7-5DIGzyDd/view?usp=drive_link
+
+Hosted link :
+https://yog-sadhana.netlify.app/
